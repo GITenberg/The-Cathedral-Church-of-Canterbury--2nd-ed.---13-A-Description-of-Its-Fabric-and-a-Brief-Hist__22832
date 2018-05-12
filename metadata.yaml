@@ -1,0 +1,30 @@
+_repo: The-Cathedral-Church-of-Canterbury--2nd-ed.---13-A-Description-of-Its-Fabric-and-a-Brief-Hist__22832
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Withers, Hartley
+    birthdate: 1867
+    deathdate: 1950
+    gutenberg_agent_id: '4107'
+    url: http://www.gutenberg.org/2009/agents/4107
+description: ''
+gutenberg_bookshelf:
+- United Kingdom
+- Architecture
+gutenberg_issued: '2007-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22832'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Canterbury Cathedral'
+title: "The Cathedral Church of Canterbury [2nd ed.]\r\nA Description of Its Fabric\
+  \ and a Brief History of the Archiepiscopal See"
+url: http://www.gutenberg.org/ebooks/22832
